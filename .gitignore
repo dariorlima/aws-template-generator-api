@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+main.py
+setup.py
+template.yml
+venv
